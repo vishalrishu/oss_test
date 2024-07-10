@@ -3,7 +3,7 @@ on: pull_request_target
 
 jobs:
   conflibot:
-    runs-on: ubuntu-latest
+    runs-on: my-runner
     steps:
       - uses: actions/checkout@v3
       - name: Warn potential conflicts
