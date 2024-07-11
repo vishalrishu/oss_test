@@ -1,1 +1,1 @@
-echo "Hello Github New!"
+echo "Hello!"
